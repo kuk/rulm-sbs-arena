@@ -1,0 +1,4 @@
+.env.json
+.ipynb_checkpoints/
+__pycache__/
+data/
