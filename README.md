@@ -1,13 +1,13 @@
 Dev env
 
 ```bash
-python -m venv ~/.venvs/rulm-sbs-tasks
-source ~/.venvs/rulm-sbs-tasks/bin/activate
+python -m venv ~/.venvs/rulm-sbs-arena
+source ~/.venvs/rulm-sbs-arena/bin/activate
 
 pip install tqdm pandas pyarrow openai
 
 pip install ipywidgets ipykernel
-python -m ipykernel install --user --name rulm-sbs-tasks
+python -m ipykernel install --user --name rulm-sbs-arena
 ```
 
 Download Arena
